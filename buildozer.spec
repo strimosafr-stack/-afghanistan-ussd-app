@@ -16,7 +16,7 @@ source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 
 # (string) Application versioning (method 1)
-version = 1.0.0
+version = 1.0.1
 
 # (list) Application requirements
 # این خط بسیار حیاتی است؛ نسخه‌ها دقیقاً هماهنگ شده‌اند تا تداخل رخ ندهد
